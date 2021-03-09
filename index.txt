@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <title>Amy's website of cringe</title>
+  </head>
+<!-- Head ends here -->	
+<!-- Body starts here -->
+  <body>
+    <h1>Hello, world!</h1>
+
+
+    <!-- Optional JavaScript -->
+<!-- jQuery first, (Popper.js is included in the bootstrap JS), then Bootstrap JS -->
+
+    <script src="js/jquery-3.6.0.slim.min.js "></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    
+  </body>
+</html>

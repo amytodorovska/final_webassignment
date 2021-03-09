@@ -1,0 +1,33 @@
+@charset "UTF-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body { background-image: url("../../images/windows.jpg");
+}
+
+.logo img {
+	width: 10px;
+	height: 20px;
+}
+.navbar-expand-lg {
+	background: green;
+}
+
+.nav { background: blue;
+}
+.nav-link {
+	color:chartreuse;
+}
+.nav-link:hover {
+	color: white;
+}
+
+body { font-family: 'DotGothic16', sans-serif;
+}
+
+h1 {
+    text-align: center
+}
+
+.wsw p { color: white;
+test-align: justify;
+}
