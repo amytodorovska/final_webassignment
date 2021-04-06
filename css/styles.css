@@ -1,8 +1,7 @@
 @charset "UTF-8";
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
-body { background-image: url("../../images/windows.jpg");
-}
+body { background-image: url("../images/windows.jpg")}
 
 .logo img {
 	width: 10px;
@@ -31,3 +30,4 @@ h1 {
 .wsw p { color: white;
 text-align: justify;
 }
+
